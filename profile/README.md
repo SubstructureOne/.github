@@ -20,6 +20,8 @@ flywheels that encourage forking, innovating, and repurposing, all while
 maintaining incentive schemes that ensure innovators get properly compensated
 for their contributions.
 
+Kestrel is the main current focus at substructure.one
+
 * https://github.com/SubstructureOne/kestrel - The primary kestrel
   implementation
 * https://github.com/SubstructureOne/kestrelpy - A python interface to the
